@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/stars/jaykumar9022?label=Stars&style=for-the-badge&color=orange" alt="stars" />
 </div> 
 
-![GitHub Banner](https://raw.githubusercontent.com/jaykumar9022/jaykumar9022/main/Github%20Banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/24f2004977/24f2004977/main/Github%20Banner.png)
 
 
 <h3 align="center">⚡ Python Developer | Backend & AI Developer | Building Intelligent Systems</h3>
