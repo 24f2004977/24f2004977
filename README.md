@@ -1,0 +1,112 @@
+<div id="header" align="right">
+  <img src="https://komarev.com/ghpvc/?username=jaykumar9022&style=for-the-badge&color=orange" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/jaykumar9022?label=Followers&style=for-the-badge&color=orange" alt="followers" />
+  <img src="https://img.shields.io/github/stars/jaykumar9022?label=Stars&style=for-the-badge&color=orange" alt="stars" />
+</div> 
+
+![GitHub Banner](https://raw.githubusercontent.com/jaykumar9022/jaykumar9022/main/Github%20Banner.png)
+
+
+<h3 align="center">⚡ Python Developer | Backend & AI Developer | Building Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0E75B6&center=true&vCenter=true&width=600&lines=Python+Developer;FastAPI+%26+AI+Projects;Backend+Learning+Journey;Building+Real-World+Systems" />
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🧠 About Me
+- 🎓 BS in Data Science & Applications — **IIT Madras**
+- ⚙️ Building scalable **Backend + AI Systems**
+- 🤖 Working with **LLMs, APIs, Automation**
+- 🛡️ Exploring **Systems & Security**
+- 🎥 Tech Content Creator (YouTube)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Placement Portal Application**  
+→ Flask + SQLite based system to manage placement workflows  
+
+🔹 **Jarvis Voice Assistant**  
+→ Python-based AI assistant with automation + voice control  
+
+🔹 **Data Analyst Agent API**  
+→ FastAPI-powered intelligent data processing & Q&A system  
+
+---
+
+## ⚙️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,java,fastapi,flask,postgres,docker,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumar9022&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" height="180" />
+</div>
+
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaykumar9022&theme=tokyonight" height="180" />
+  
+</div>
+
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykumar9022&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0E75B6&line=0E75B6&point=FFFFFF&area=true&area_color=0E75B6" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jaykumar9022/jaykumar9022/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:jay">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+</div>
+
+</p>
+<p align="center">
+Made with ❤️ by Apurva Ansh
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling"
+alt="footer"/>
+</div>
