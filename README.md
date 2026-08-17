@@ -71,6 +71,8 @@ also:       Making tech content on YouTube 🎥
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=24f2004977&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0E75B6&line=0E75B6&point=FFFFFF&area=true&area_color=0E75B6" />
 </div>
 
+## 🐍 Contribution Snake
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/24f2004977/24f2004977/output/github-contribution-grid-snake.svg" />
 </p>
