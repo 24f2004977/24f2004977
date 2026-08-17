@@ -62,18 +62,7 @@ also:       Making tech content on YouTube 🎥
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaykumar9022&theme=tokyonight&hide_border=true&show_icons=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumar9022&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykumar9022&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0E75B6&line=0E75B6&point=FFFFFF&area=true&area_color=0E75B6" />
-</div>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jaykumar9022/jaykumar9022/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaykumar9022&theme=tokyonight&hide_border=true&show_icons=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumar9022&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" height="180" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaykumar9022&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0E75B6&line=0E75B6&point=FFFFFF&area=true&area_color=0E75B6" /> </div> <p align="center"> <img src="https://raw.githubusercontent.com/jaykumar9022/jaykumar9022/output/github-contribution-grid-snake.svg" /> </p>
 
 ---
 
