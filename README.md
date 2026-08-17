@@ -95,6 +95,10 @@ also:       Making tech content on YouTube 🎥
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 </div>
 
+<p align="center">
+Made with ❤️ by Apurva Ansh
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="footer"/>
 </div>
