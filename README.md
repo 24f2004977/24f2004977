@@ -6,7 +6,7 @@
 
 ![GitHub Banner](https://raw.githubusercontent.com/24f2004977/24f2004977/main/Github%20Banner.png)
 
-<h1 align="center">Hi, I'm Jay 👋</h1>
+<h1 align="center">Hi, I'm Apurva Ansh 👋</h1>
 <h3 align="center">⚡ Python Developer | Backend & AI Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
